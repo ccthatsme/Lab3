@@ -63,6 +63,7 @@ public class LabNumber3 {
 
 		}
 		System.out.println("Goodbye!");
+		scan.close();
 
 	}
 }
